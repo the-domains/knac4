@@ -1,5 +1,4 @@
-layout_spectrum: 0.4005574
-typography_spectrum: 0.3865483
+layout_spectrum: 1
 color:
   saturation: 0.8088987
   lightness: 0.7437961
@@ -11,4 +10,5 @@ color:
     - '#4D5792'
     - '#68432D'
   rhythmicContrast: 0.9209617
+typography_spectrum: 0.3865483
 name: KNAC4
